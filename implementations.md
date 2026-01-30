@@ -15,7 +15,7 @@ This document tracks the features and modules currently implemented in the appli
 ## 2. Frontend Architecture (`/client`)
 - **Framework**: React (Vite).
 - **Styling**: Tailwind CSS v4 + PostCSS.
-- **Typography**: Integrated Google Fonts (`Great Vibes`, `Playfair Display`, `Lato`) for "Mrs. Frost" aesthetic.
+- **Typography**: Integrated Google Fonts (`Plus Jakarta Sans`) for modern "Shaik's Blog" aesthetic.
 
 ## 3. User Interface
 - **Home Page**: 

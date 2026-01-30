@@ -1,6 +1,6 @@
-# Mrs. Frost's Holiday Recipe Blog (MERN Stack)
+# Shaik's Blog (MERN Stack)
 
-A full-stack blogging application built with the MERN stack (MongoDB, Express, React, Node.js). It features a premium editorial "Mrs. Frost" aesthetic, complete with social interactions (likes, comments, replies) and an admin dashboard.
+A full-stack blogging application built with the MERN stack (MongoDB, Express, React, Node.js). It features a modern and clean aesthetic, complete with social interactions (likes, comments, replies) and an admin dashboard.
 
 ## Features
 - **Public Blog**: Responsive grid layout with large images and elegant typography.

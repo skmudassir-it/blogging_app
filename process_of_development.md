@@ -19,7 +19,7 @@ This log documents the major stages of development for the Blogging App.
     - Set up React Router navigation.
 2.  **Verification**: Tested CRUD operations via Frontend and cURL.
 
-## Phase 3: Visual Redesign ("Mrs. Frost" Style)
+## Phase 3: Visual Redesign (Modern Style)
 1.  **Aesthetic Overhaul**:
     - Adopted a clean, food-blog style inspired by reference images.
     - **Typography**: Switched to `Playfair Display` (Serif) and `Lato` (Sans), removing generic fonts.

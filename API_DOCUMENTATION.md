@@ -76,7 +76,7 @@ This documentation details the API endpoints available for the Blogging App, inc
   {
     "title": "Delicious Pancakes",
     "content": "Here is the recipe...",
-    "author": "Mrs. Frost",
+    "author": "Shaik's Blog",
     "excerpt": "Fluffy breakfast delight.",
     "coverImage": "https://images.unsplash.com/photo-1598214886806-c87b84b7078b"
   }
